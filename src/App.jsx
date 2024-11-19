@@ -108,7 +108,7 @@ function App() {
       />
       {/* Fin Renderizar componente de header */}
       <main className="container-xl mt-5">
-        <h2 className="text-center">Check out our new guitars</h2>
+        <h2 className="text-center">Check out our new instruments</h2>
 
         <div className="row mt-5">
           {data.map((guitar)=> (
